@@ -5,6 +5,7 @@ Time:2018/10/12
 '''
 
 import time
+
 def searchInBaidu():
     print('众里寻她千百度')
 
