@@ -25,7 +25,7 @@ if __name__ == "__main__":
             time.sleep(2)
             discoverTheLoveInDark()    #那人却在灯火阑珊处
         time.sleep(2)
-            #return
+            # return
 
 
 
