@@ -20,11 +20,11 @@ def discoverTheLoveInDark():
 if __name__ == "__main__":
     flag = 1
     for i in range(5201314):
-        searchInBaidu()   #众里寻她千百度
+        searchInBaidu()   # 众里寻她千百度
         time.sleep(2)
-        if (flag == returnMyHead()):   #蓦然回首
+        if (flag == returnMyHead()):   # 蓦然回首
             time.sleep(2)
-            discoverTheLoveInDark()    #那人却在灯火阑珊处
+            discoverTheLoveInDark()    # 那人却在灯火阑珊处
             return
         time.sleep(2)
             
