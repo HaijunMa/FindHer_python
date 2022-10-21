@@ -25,8 +25,9 @@ if __name__ == "__main__":
         if (flag == returnMyHead()):   #蓦然回首
             time.sleep(2)
             discoverTheLoveInDark()    #那人却在灯火阑珊处
+            return
         time.sleep(2)
-            # return
+            
 
 
 
